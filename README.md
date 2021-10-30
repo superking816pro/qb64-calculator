@@ -1,5 +1,8 @@
 # qb64-calculator
-<p align = center>
+<h1 align = center> NOTICE!!! </h1>
+<h2 align = center> the original qb64 id found in their website <a herf="https://www.qb64.org/portal/">here</a> </h2>
+
+<p>
   hi and i have created a basic qb64 calculator
 </p>
 
